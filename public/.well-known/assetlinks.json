@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.lifetime",
+      "package_name": "com.wellnessz.fitfuelclub",
       "sha256_cert_fingerprints": [
-        "75:EC:A7:C2:4E:07:00:EF:05:2D:CF:B0:30:6B:7C:27:E4:95:85:F5:6C:C5:E9:A8:B7:D8:89:A5:45:B6:31:44"
+        "26:59:36:C0:57:86:F2:D8:59:CF:B0:0E:31:D7:E0:27:03:F7:C4:36:F4:93:54:D2:3B:56:EB:BC:92:A5:DA:BB"
       ]
     }
   }
