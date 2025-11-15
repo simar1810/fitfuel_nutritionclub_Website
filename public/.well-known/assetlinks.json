@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wellnessz.lifetime",
+      "sha256_cert_fingerprints": [
+        "75:EC:A7:C2:4E:07:00:EF:05:2D:CF:B0:30:6B:7C:27:E4:95:85:F5:6C:C5:E9:A8:B7:D8:89:A5:45:B6:31:44"
+      ]
+    }
+  }
+]
