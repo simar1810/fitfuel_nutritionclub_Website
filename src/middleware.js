@@ -1,10 +1,10 @@
 import { NextResponse } from 'next/server';
 
 const PLAY_STORE_URL =
-  'https://play.google.com/store/apps/details?id=com.wellnessz.lifetime';
+  'https://play.google.com/store/apps/details?id=com.wellnessz.fitfuelclub';
 
 const APP_STORE_URL =
-  'https://apps.apple.com/dm/app/lifetime-fitness-nutrition/id6752551699';
+  'https://apps.apple.com/us/app/fit-fuel-nutrition-club/id6755033502';
 
 const IOS_REGEX = /iPhone|iPad|iPod/i;
 const ANDROID_REGEX = /Android/i;
