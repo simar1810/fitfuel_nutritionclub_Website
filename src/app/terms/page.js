@@ -1,5 +1,4 @@
 "use client";
-import React from "react";
 
 const page = () => {
   return (
@@ -9,16 +8,16 @@ const page = () => {
           Terms and Conditions
         </h2>
 
-  <p>Welcome to Lifetime Fitness and Nutrition Center!</p>
+  <p>Welcome to Fit Fuel Nutrition and Nutrition Center!</p>
 
         <p>
           These terms and conditions outline the rules and regulations for the use
-            of Lifetime Fitness and Nutrition Center&apos;s Website, located at flextransformation.com.
+            of Fit Fuel Nutrition and Nutrition Center&apos;s Website, located at flextransformation.com.
         </p>
 
         <p>
           By accessing this website we assume you accept these terms and
-            conditions. Do not continue to use Lifetime Fitness and Nutrition Center if you do not agree to
+            conditions. Do not continue to use Fit Fuel Nutrition and Nutrition Center if you do not agree to
             take all of the terms and conditions stated on this page.
         </p>
 
@@ -41,8 +40,8 @@ const page = () => {
         <h3 className="text-xl font-semibold text-[#3D3D3D] border-l-4 border-[#D58411] pl-3">Cookies</h3>
 
         <p>
-          We employ the use of cookies. By accessing Lifetime Fitness and Nutrition Center, you agree to use
-          cookies in agreement with Lifetime Fitness and Nutrition Center&apos;s Privacy Policy.
+          We employ the use of cookies. By accessing Fit Fuel Nutrition and Nutrition Center, you agree to use
+          cookies in agreement with Fit Fuel Nutrition and Nutrition Center&apos;s Privacy Policy.
         </p>
 
         <p>
@@ -56,18 +55,18 @@ const page = () => {
         <h3 className="text-xl font-semibold text-[#3D3D3D] border-l-4 border-[#D58411] pl-3">License</h3>
 
         <p>
-          Unless otherwise stated, Lifetime Fitness and Nutrition Center and/or its licensors own the
-          intellectual property rights for all material on Lifetime Fitness and Nutrition Center. All
-          intellectual property rights are reserved. You may access this from Lifetime Fitness and Nutrition Center for your own personal use subjected to restrictions set in these
+          Unless otherwise stated, Fit Fuel Nutrition and Nutrition Center and/or its licensors own the
+          intellectual property rights for all material on Fit Fuel Nutrition and Nutrition Center. All
+          intellectual property rights are reserved. You may access this from Fit Fuel Nutrition and Nutrition Center for your own personal use subjected to restrictions set in these
           terms and conditions.
         </p>
 
         <p>You must not:</p>
         <ul className="list-disc list-inside space-y-1 ml-4">
-          <li>Republish material from Lifetime Fitness and Nutrition Center</li>
-          <li>Sell, rent or sub-license material from Lifetime Fitness and Nutrition Center</li>
-          <li>Reproduce, duplicate or copy material from Lifetime Fitness and Nutrition Center</li>
-          <li>Redistribute content from Lifetime Fitness and Nutrition Center</li>
+          <li>Republish material from Fit Fuel Nutrition and Nutrition Center</li>
+          <li>Sell, rent or sub-license material from Fit Fuel Nutrition and Nutrition Center</li>
+          <li>Reproduce, duplicate or copy material from Fit Fuel Nutrition and Nutrition Center</li>
+          <li>Redistribute content from Fit Fuel Nutrition and Nutrition Center</li>
         </ul>
 
         <p>
@@ -84,18 +83,18 @@ const page = () => {
 
         <p>
           Parts of this website offer an opportunity for users to post and
-          exchange opinions and information in certain areas of the website. Lifetime Fitness and Nutrition Center does not filter, edit, publish or review Comments prior to their
+          exchange opinions and information in certain areas of the website. Fit Fuel Nutrition and Nutrition Center does not filter, edit, publish or review Comments prior to their
           presence on the website. Comments do not reflect the views and opinions
-          of Lifetime Fitness and Nutrition Center, its agents and/or affiliates. Comments reflect the views
+          of Fit Fuel Nutrition and Nutrition Center, its agents and/or affiliates. Comments reflect the views
           and opinions of the person who post their views and opinions. To the
-          extent permitted by applicable laws, Lifetime Fitness and Nutrition Center shall not be liable for
+          extent permitted by applicable laws, Fit Fuel Nutrition and Nutrition Center shall not be liable for
           the Comments or for any liability, damages or expenses caused and/or
           suffered as a result of any use of and/or posting of and/or appearance
           of the Comments on this website.
         </p>
 
         <p>
-          Lifetime Fitness and Nutrition Center reserves the right to monitor all Comments and to remove any
+          Fit Fuel Nutrition and Nutrition Center reserves the right to monitor all Comments and to remove any
           Comments which can be considered inappropriate, offensive or causes
           breach of these Terms and Conditions.
         </p>
@@ -123,7 +122,7 @@ const page = () => {
         </ul>
 
         <p>
-          You hereby grant Lifetime Fitness and Nutrition Center a non-exclusive license to use, reproduce,
+          You hereby grant Fit Fuel Nutrition and Nutrition Center a non-exclusive license to use, reproduce,
           edit and authorize others to use, reproduce and edit any of your
           Comments in any and all forms, formats or media.
         </p>
@@ -181,7 +180,7 @@ const page = () => {
           that: (a) the link would not make us look unfavorably to ourselves or to
           our accredited businesses; (b) the organization does not have any
           negative records with us; (c) the benefit to us from the visibility of
-          the hyperlink compensates the absence of Lifetime Fitness and Nutrition Center; and (d) the link is
+          the hyperlink compensates the absence of Fit Fuel Nutrition and Nutrition Center; and (d) the link is
           in the context of general resource information.
         </p>
 
@@ -195,7 +194,7 @@ const page = () => {
         <p>
           If you are one of the organizations listed in paragraph 2 above and are
           interested in linking to our website, you must inform us by sending an
-          e-mail to Lifetime Fitness and Nutrition Center. Please include your name, your organization name,
+          e-mail to Fit Fuel Nutrition and Nutrition Center. Please include your name, your organization name,
           contact information as well as the URL of your site, a list of any URLs
           from which you intend to link to our Website, and a list of the URLs on
           our site to which you would like to link. Wait 2-3 weeks for a response.
@@ -214,7 +213,7 @@ const page = () => {
         </ul>
 
         <p>
-          No use of Lifetime Fitness and Nutrition Center&apos;s logo or other artwork will be allowed for linking
+          No use of Fit Fuel Nutrition and Nutrition Center&apos;s logo or other artwork will be allowed for linking
           absent a trademark license agreement.
         </p>
 

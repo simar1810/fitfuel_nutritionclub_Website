@@ -1,13 +1,12 @@
-import Carousel from "@/components/core/Carousel";
+import FreeTrialCustomerModal from "@/components/core/FreeTrialCustomerModal";
 import { classSection, howItWorks, subscriptionPlans, trustedPartners, whyChooseSection } from "@/utils/data";
 import Image from "next/image";
 import Link from "next/link";
-import { MdOutlineArrowOutward } from "react-icons/md";
-import { IoCheckmarkCircle } from "react-icons/io5";
-import { FaFacebookF, FaInstagram, FaPhoneAlt, FaRegEnvelope, } from "react-icons/fa";
 import { CiLink } from "react-icons/ci";
+import { FaFacebookF, FaInstagram, FaPhoneAlt, FaRegEnvelope, } from "react-icons/fa";
 import { FaLocationDot, FaYoutube } from "react-icons/fa6";
-import FreeTrialCustomerModal from "@/components/core/FreeTrialCustomerModal";
+import { IoCheckmarkCircle } from "react-icons/io5";
+import { MdOutlineArrowOutward } from "react-icons/md";
 
 export default async function FreeTrialClient() {
   return (
@@ -296,7 +295,7 @@ export default async function FreeTrialClient() {
 
       {/* WHY CHOOSE SECTION STARTS */}
       <div className="bg-gradient-to-tr from-[#0168A826] via-[#0168A826] to-[#0168A826] px-4 py-[3rem] w-full">
-        <h2 className="text-[24px] md:text-[48px] font-semibold text-center leading-[1.2] mb-[8px] md:mb-[12px]">Why Choose Lifetime Fitness and Nutrition Center </h2>
+        <h2 className="text-[24px] md:text-[48px] font-semibold text-center leading-[1.2] mb-[8px] md:mb-[12px]">Why Choose Fit Fuel Nutrition and Nutrition Center </h2>
         <p className="max-w-[60ch] text-[10px] md:text-[14px] text-center text-[#00000080] mx-auto mb-[12px] md:mb-[16px]">Why you should choose us. Join Our Diabetes Prevention Challenges. Start a step-by-step journey with the support of experts and a like-minded community.</p>
         <button className="rounded-full text-white bg-[var(--accent-1)] text-[12px] md:text-[16px] font-semibold block mx-auto py-2 px-4">Join us Today</button>
         <div className="max-w-[1200px] mx-auto flex flex-wrap justify-center items-start gap-y-8 gap-x-3 mt-8">
@@ -373,7 +372,7 @@ export default async function FreeTrialClient() {
         <div className="flex flex-col lg:flex-row justify-between items-center h-full text-white gap-[2rem] lg:gap-[5rem]">
           <div className="lg:min-w-1/2 flex flex-col items-center lg:items-start lg:pl-6 md:mt-[10rem] lg:mt-0 text-center lg:text-left">
             <h1 className="text-[1.2rem] md:text-[1.5rem] lg:text-[3rem] font-bold lg:mb-12 lg:leading-[3.5rem] ">Download the <br />
-              <span className='md:text-[2.7rem] text-[2rem] lg:text-[3rem] text-white opacity-100'>Lifetime Fitness and Nutrition Center App</span>
+              <span className='md:text-[2.7rem] text-[2rem] lg:text-[3rem] text-white opacity-100'>Fit Fuel Nutrition and Nutrition Center App</span>
             </h1>
             <p className="text-sm md:text-xl mb-5 opacity-70 ">Begin your journey Towards Making People Healthy</p>
             <div className="flex justify-between items-center gap-5 mb-5">

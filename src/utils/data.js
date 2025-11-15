@@ -1,4 +1,4 @@
-import { BasicPlan, PopularPlan } from "@/app/page";
+import { BasicPlan } from "@/app/page";
 
 export const wellnessSessions = [
   {
@@ -108,7 +108,7 @@ export const howItWorks = [
   },
   {
     i: "2",
-    h: "Get Instant Access to the Lifetime Fitness and Nutrition Center App",
+    h: "Get Instant Access to the Fit Fuel Nutrition and Nutrition Center App",
     d: "Once you sign up, you'll receive a direct login link to our app—no extra steps needed!"
   },
   {

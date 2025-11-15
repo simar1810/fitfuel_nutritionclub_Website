@@ -1,5 +1,4 @@
 "use client";
-import React from "react";
 
 const PrivacyPolicy = () => {
   return (
@@ -59,7 +58,7 @@ const PrivacyPolicy = () => {
         <li>
               <strong>Company</strong> (referred to as either &quot;the
               Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in
-            this Agreement) refers to Lifetime Fitness and Nutrition Center.
+            this Agreement) refers to Fit Fuel Nutrition and Nutrition Center.
         </li>
         <li>
             <strong>Cookies</strong> are small files that are placed on Your
@@ -96,7 +95,7 @@ const PrivacyPolicy = () => {
             </li>
             {/* {Changes} */}
         <li>
-              <strong>Website</strong> refers to Lifetime Fitness and Nutrition Center , accessible from{" "}
+              <strong>Website</strong> refers to Fit Fuel Nutrition and Nutrition Center , accessible from{" "}
               <a
                 href="flextransformation.com"
                 target="_blank"
